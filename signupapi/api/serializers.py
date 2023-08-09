@@ -3,7 +3,7 @@ from django.utils import timezone
 
 from rest_framework import serializers
 
-from app.models import User
+from signupapi.models import User
 
 
 class RegistrationSerializer(serializers.ModelSerializer):
