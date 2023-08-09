@@ -1,4 +1,4 @@
-# 베지밀 API 테스트 방법
+# 베지밀 회원가입 API 테스트 방법
 ## 회원가입
 http://localhost:8000/users/register 로 POST 합니다.
 
