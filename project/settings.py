@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'app',
     'boards',
     'rest_framework',
+
     'django_extensions',
     'signupapi',
 ]
